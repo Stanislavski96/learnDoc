@@ -6,3 +6,5 @@ Author Stannislavsky.
 vvpavf fvdcdepvdvpd/
 95582822e
 csorkvllcd.
+git modify 1st
+git modify 2st
